@@ -12,5 +12,10 @@
       + Improvements to Python internals
       
       + Other changes in Python 3.9
+      
+      
+ 
+ 
+ ![Python](images/Python_3.9.jpg)
 
    
