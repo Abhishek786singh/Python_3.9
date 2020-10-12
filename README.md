@@ -16,6 +16,6 @@
       
  
  
- ![Python](images/Python_3.9.jpg)
+ ![Pyhton](images/Pyhton_3.9.jpg)
 
    
