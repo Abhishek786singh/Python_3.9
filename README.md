@@ -9,6 +9,9 @@
       
       + New Python type operations
       
+      
+       ![python_3.91](images/python_3.91.jpg)
+      
       + Improvements to Python internals
       
       + Other changes in Python 3.9
