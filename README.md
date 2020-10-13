@@ -22,6 +22,6 @@
       
  
  
- ![pyhton_a](images/pyhton_a.jpg)
+ ![python_a](images/python_a.jpg)
 
    
