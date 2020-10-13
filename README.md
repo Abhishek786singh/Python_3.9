@@ -13,6 +13,12 @@
       
       + Other changes in Python 3.9
       
+      + Type Hinting Generics in Standard Collections
+      
+      + New Modules
+          
+           + zoneinfo
+      
       
  
  
