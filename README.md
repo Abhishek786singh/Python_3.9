@@ -22,6 +22,6 @@
       
  
  
- ![Pyhton_a](images/Pyhton_a.jpg)
+ ![pyhton_a](images/pyhton_a.jpg)
 
    
