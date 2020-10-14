@@ -16,6 +16,8 @@
       
       + Other changes in Python 3.9
       
+      ![python_3.4](images/python_3.4.png)
+      
       + Type Hinting Generics in Standard Collections
       
       + New Modules
