@@ -10,7 +10,7 @@
       + New Python type operations
       
       
-       ![python_3.91](images/python_3.91.jpg)
+       ![python_3.4](images/python_3.4.png)
       
       + Improvements to Python internals
       
