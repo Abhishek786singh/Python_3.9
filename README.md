@@ -10,8 +10,6 @@
       + New Python type operations
       
       
-       ![python_3.4](images/python_3.4.png)
-      
       + Improvements to Python internals
       
       + Other changes in Python 3.9
@@ -34,6 +32,7 @@
  
  ![python_a](images/python_a.jpg)
  
+  ![python_3.4](images/python_3.4.png)
  
  
  
