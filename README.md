@@ -39,6 +39,11 @@
 + String Methods
 
    + Two new features have been added to the str object. This feature can sometimes come in handy in the Exploratory Data Analysis process.
+   
+   
+ + Math functions
+     
+      + A modification to an existing math function has been made. In earlier versions, the function to calculate GCD accepts only two numbers. But now, it can be applied to any         number of values.
  
  ![python_a](images/python_a.jpg)
  
