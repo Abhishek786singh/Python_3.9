@@ -27,7 +27,12 @@
       + C API Changes
       
       
-      
+# Features That You Should Know
+
++ Dictionary updates
+   + Dictionaries are one of the most useful and used data structures in Python. The new release has optimized the way of merging and updating dictionaries.
+
++ 
  
  
  ![python_a](images/python_a.jpg)
