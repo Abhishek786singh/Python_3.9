@@ -32,8 +32,13 @@
 + Dictionary updates
    + Dictionaries are one of the most useful and used data structures in Python. The new release has optimized the way of merging and updating dictionaries.
 
-+ 
++ Type Hinting
+     
+     + Under normal conditions, we don’t specify the datatype in Python. But there can be situations where we might need a variable to behave in a certain type. In such cases,          Python’s flexibility can be annoying. Starting with Python 3.5, we could specify types but this update has made things way too easier.
  
++ String Methods
+
+   + Two new features have been added to the str object. This feature can sometimes come in handy in the Exploratory Data Analysis process.
  
  ![python_a](images/python_a.jpg)
  
