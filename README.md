@@ -44,6 +44,8 @@
  + Math functions
      
       + A modification to an existing math function has been made. In earlier versions, the function to calculate GCD accepts only two numbers. But now, it can be applied to any         number of values.
+      
+  
  
  ![python_a](images/python_a.jpg)
  
@@ -56,6 +58,6 @@
   
   
   
-  ![python_3.93](images/python_3.93.jpg)
+  ![python_3](images/python_3.jpg)
 
    
