@@ -46,7 +46,9 @@
       + A modification to an existing math function has been made. In earlier versions, the function to calculate GCD accepts only two numbers. But now, it can be applied to any         number of values.
       
   
- 
+#  Link-https://docs.python.org/3.9/whatsnew/3.9.html
+
+
  ![python_a](images/python_a.jpg)
  
   ![python_3.4](images/python_3.4.png)
