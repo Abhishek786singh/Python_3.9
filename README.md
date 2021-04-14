@@ -28,7 +28,7 @@
       
       + C API Changes
       
- .........    
+ 
 # Features That You Should Know
 
 + Dictionary updates
