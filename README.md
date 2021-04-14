@@ -10,7 +10,7 @@
       + Decorators lose some restrictions
       
       + New Python type operations
-      .........
+      
       
       + Improvements to Python internals
       
