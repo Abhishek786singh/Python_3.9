@@ -41,7 +41,7 @@
 + String Methods
 
    + Two new features have been added to the str object. This feature can sometimes come in handy in the Exploratory Data Analysis process.
-   
+   .....
    
  + Math functions
      
